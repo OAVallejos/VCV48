@@ -44,6 +44,7 @@ vcv48_validation.py
 
 vcv48_k01.rs
 
+Cargo.toml
 
 Vallejos, O. A. (2026). Vacuum Crystallography (Vitrum Cosmicum Vacui (VCV48)). (vA). Zenodo. 
 https://doi.org/10.5281/zenodo.19091908
