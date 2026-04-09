@@ -32,6 +32,17 @@ AXION_ULA.py --mode full --nf-min 1 --nf-max 100000 --residues 24 --step 48
 >> sudo swapon /swapfile
 >> free -h 
 
+# Annex I
+
+TEST_CALIBRATION.py
+
+CROSS_TEST.py
+
+TEST_BETA.py
+
+vcv48_validation.py
+
+vcv48_k01.rs
 
 
 Vallejos, O. A. (2026). Vacuum Crystallography (Vitrum Cosmicum Vacui (VCV48)). (vA). Zenodo. 
