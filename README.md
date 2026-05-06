@@ -46,25 +46,38 @@ vcv48_k01.rs
 
 Cargo.toml
 
+
 Annex II
 
 ○DESI/SDSS
 
 TEST_PHASE.py
+
 kernel phase_core.rs
  
 DELTA_ALPHA_ANALYZER.py
+
 kernel: vpm_core_v5.rs
 
 PHASE_10.py
+
 VERIFICACION_SGW.py
+
 kernel: vpm_core_v4b.rs
 
 TEST_n2_v6_VCV48.py
+
 FOG_LAW_CORRECTED.py
+
 PHASE_VCV48_v5.4_HEMISPHERES.py
+
 SENSITIVITY_BAO_v8.py
+
 kernel: vpm_core_v4.rs
+
+Cargo_BAO.toml
+
+pyproyect_BAO.toml
 
 
 Vallejos, O. A. (2026). Vacuum Crystallography (Vitrum Cosmicum Vacui (VCV48)). (vA). Zenodo. 
