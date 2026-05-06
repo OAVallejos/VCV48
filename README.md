@@ -1,24 +1,24 @@
 The kernels will replace lib.rs
 
-# kernel: vpm48_engine.rs
+kernel: vpm48_engine.rs
 python3 TEST_v3_4.py
 
-# kernel: vpm48_engine_optimized.rs
+kernel: vpm48_engine_optimized.rs
 python3 -u test_vpm48_v3_8.py --particle higgs --residue 0
 python3 -u test_vpm48_v3_8.py --particle z --residue 0 --residue 24
 python3 -u test_vpm48_v3_8.py --particle w
 
-# Kernel vpm48_engine_optimized3.rs
+Kernel vpm48_engine_optimized3.rs
 test_vcv48_full_v2.py
 
-# kernel: vpm48_engine_top.rs
+kernel: vpm48_engine_top.rs
 python3 -u TOP_VPM48.py
 
-# kernel: oh_group2
+kernel: oh_group2
 TEST_OH_v2.py
 TEST_OH.py
 
-# Kernel: vcv48
+Kernel: vcv48
 HUNTER_GRAVITON_v2.py
 HUNTER_GRAVITON.py
 AXION_ULA.py --mode full --nf-min 1 --nf-max 100000 --residues 24 --step 48
@@ -32,7 +32,7 @@ AXION_ULA.py --mode full --nf-min 1 --nf-max 100000 --residues 24 --step 48
 >> sudo swapon /swapfile
 >> free -h 
 
-# Annex I
+Annex I
 
 TEST_CALIBRATION.py
 
@@ -46,6 +46,27 @@ vcv48_k01.rs
 
 Cargo.toml
 
+Annex II
+
+○DESI/SDSS
+
+TEST_PHASE.py
+kernel phase_core.rs
+ 
+DELTA_ALPHA_ANALYZER.py
+kernel: vpm_core_v5.rs
+
+PHASE_10.py
+VERIFICACION_SGW.py
+kernel: vpm_core_v4b.rs
+
+TEST_n2_v6_VCV48.py
+FOG_LAW_CORRECTED.py
+PHASE_VCV48_v5.4_HEMISPHERES.py
+SENSITIVITY_BAO_v8.py
+kernel: vpm_core_v4.rs
+
+
 Vallejos, O. A. (2026). Vacuum Crystallography (Vitrum Cosmicum Vacui (VCV48)). (vA). Zenodo. 
 https://doi.org/10.5281/zenodo.19091908
 
@@ -57,3 +78,9 @@ Vallejos, O. A. (2026). Vacuum Crystallography (Vitrum Cosmicum Vacui (VCV48)). 
 
 
 Vallejos, O. A. (2026). Vitrum Cosmicum Vacui (VCV48). (Annex I). Zenodo. https://doi.org/10.5281/zenodo.19487810
+
+Vallejos, O. A. (2026). Vitrum Cosmicum Vacui (VCV48) Integrated Analysis of Cosmic Harmonics, Variation of Fundamental Constants and Phase Coherence. (Annex II). Zenodo. https://doi.org/10.5281/zenodo.20053734
+
+
+
+
