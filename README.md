@@ -94,6 +94,10 @@ Vallejos, O. A. (2026). Vitrum Cosmicum Vacui (VCV48). (Annex I). Zenodo. https:
 
 Vallejos, O. A. (2026). Vitrum Cosmicum Vacui (VCV48) Integrated Analysis of Cosmic Harmonics, Variation of Fundamental Constants and Phase Coherence. (Annex II). Zenodo. https://doi.org/10.5281/zenodo.20053734
 
+Vallejos, O. A. (2026). Preprint: Vitrum Cosmicum Vacui (VCV48) Model Validation with Gravitational Lenses. (Version Annex III A). Zenodo. https://doi.org/10.5281/zenodo.21434465
+
+
+Vallejos, O. A. (2026). Preprint: Vitrum Cosmicum Vacui (VCV48) Model Validation with Gravitational Lenses. (Version Annex III B). Zenodo. https://doi.org/10.5281/zenodo.21434578
 
 
 
