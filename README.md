@@ -80,6 +80,38 @@ Cargo_BAO.toml
 pyproyect_BAO.toml
 
 
+Annex III A/B
+
+beta0_fcc.rs (pure rust)
+
+SDSS_vs_DESI.py
+
+Sin kernel
+
+
+
+validate_tdcosmo_blinded.py
+
+kernel: vpm_wave2.rs
+
+
+
+WAVE_LENSING_c.py
+
+WAVE_LENSING_v2b_BLINDED.py
+
+WAVE_DENSIDAD.py
+
+WAVE_SWITCH.py
+
+VALIDACION_LENTES_VPM_v6.py
+
+WAVE_JWST.py
+
+kernel: vpm_wave0.rs
+
+
+
 Vallejos, O. A. (2026). Vacuum Crystallography (Vitrum Cosmicum Vacui (VCV48)). (vA). Zenodo. 
 https://doi.org/10.5281/zenodo.19091908
 
