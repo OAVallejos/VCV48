@@ -32,7 +32,7 @@ AXION_ULA.py --mode full --nf-min 1 --nf-max 100000 --residues 24 --step 48
 >> sudo swapon /swapfile
 >> free -h 
 
-Annex I
+🚀 Annex I
 
 TEST_CALIBRATION.py
 
@@ -47,7 +47,7 @@ vcv48_k01.rs
 Cargo.toml
 
 
-Annex II
+🚀 Annex II
 
 ○DESI/SDSS
 
@@ -80,7 +80,7 @@ Cargo_BAO.toml
 pyproyect_BAO.toml
 
 
-Annex III A/B
+🚀 Annex III A/B
 
 beta0_fcc.rs (pure rust)
 
