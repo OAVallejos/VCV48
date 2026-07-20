@@ -86,7 +86,7 @@ beta0_fcc.rs (pure rust)
 
 SDSS_vs_DESI.py
 
-Sin kernel
+No kernel
 
 
 
