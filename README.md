@@ -111,6 +111,11 @@ WAVE_JWST.py
 kernel: vpm_wave0.rs
 
 
+🚀 Annex IV
+
+
+
+
 
 Vallejos, O. A. (2026). Vacuum Crystallography (Vitrum Cosmicum Vacui (VCV48)). (vA). Zenodo. 
 https://doi.org/10.5281/zenodo.19091908
@@ -131,5 +136,7 @@ Vallejos, O. A. (2026). Preprint: Vitrum Cosmicum Vacui (VCV48) Model Validation
 
 Vallejos, O. A. (2026). Preprint: Vitrum Cosmicum Vacui (VCV48) Model Validation with Gravitational Lenses. (Version Annex III B). Zenodo. https://doi.org/10.5281/zenodo.21434578
 
+
+Vallejos, O. A. (2026). Preprint: Topological Point of No Return in Hadron Colliders: Implications for the LHC, the HL-LHC, and the FCC. (Version Annex IV). Zenodo. https://doi.org/10.5281/zenodo.21779829
 
 
