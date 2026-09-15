@@ -125,6 +125,43 @@ kernel: vpm_wave0.rs
 🚀 Annex IV
 
 
+🚀 Annex V
+
+TEST_OH_v2V.py # Matriz
+
+
+TOP_VPM48V.py # Quark Top
+
+vpm48_engine_topV.rs
+
+
+calculate_massesV.py
+
+vpm48_engine_massesV.rs
+
+
+neutrino_Test_v2V.py # neutrinos axion QCD wimp
+
+neutrino_search3V.rs
+
+
+run_axion_ulaV.py # axion ULA
+
+axion_ula2V.rs
+
+fase3e_exoticos_completoV.py
+
+
+vcv48_alphaV.py 
+
+
+oh_48_runV.py # kernel: oh_48.rs
+
+
+mass_width_2026.txt
+
+
+hadrones_completos_2026_v4.csv
 
 
 
@@ -150,4 +187,6 @@ Vallejos, O. A. (2026). Preprint: Vitrum Cosmicum Vacui (VCV48) Model Validation
 
 Vallejos, O. A. (2026). Preprint: Topological Point of No Return in Hadron Colliders: Implications for the LHC, the HL-LHC, and the FCC. (Version Annex IV). Zenodo. https://doi.org/10.5281/zenodo.21779829
 
+
+Vallejos, O. A. (2026). Vacuum Crystallography (VCV48) Topological Parameterization of the Mass Spectrum and Predictions of New Physics. (Version Annex V). Zenodo. https://doi.org/10.5281/zenodo.22771117
 
