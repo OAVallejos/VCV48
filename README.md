@@ -163,7 +163,40 @@ mass_width_2026.txt
 
 hadrones_completos_2026_v4.csv
 
+🚀 Annex VI
 
+test_ohv1_VI.py
+
+Kernel: oh_group_VI.rs
+
+
+test_ohv2_VI.py
+
+test_ohv2a_VI.py
+
+test_ohv2b_VI.py
+
+Kernel: gt_kernel_VI.rs
+
+
+test_ohv3_VI.py
+
+Kernel solver_kernel_VI.rs
+
+
+test_ohv4_VI.py
+
+Kernel analysis_kernel_VI.rs
+
+
+test_ohv5_VI.py
+
+Kernel vcv48_kernel_VI.rs
+
+
+test_ohv6_VI.py
+
+Kernel: a_nu_kernel_VI.rs
 
 Vallejos, O. A. (2026). Vacuum Crystallography (Vitrum Cosmicum Vacui (VCV48)). (vA). Zenodo. 
 https://doi.org/10.5281/zenodo.19091908
@@ -189,4 +222,7 @@ Vallejos, O. A. (2026). Preprint: Topological Point of No Return in Hadron Colli
 
 
 Vallejos, O. A. (2026). Vacuum Crystallography (VCV48) Topological Parameterization of the Mass Spectrum and Predictions of New Physics. (Version Annex V). Zenodo. https://doi.org/10.5281/zenodo.22771117
+
+Vallejos, O. A. (2026). Vacuum Crystallography (VCV48) Neutrino Helicity Conversion in the Oh Lattice and Sidereal Modulation of the M87 Neutrino Flux. (Version Annex VI). Zenodo. https://doi.org/10.5281/zenodo.22877190
+
 
